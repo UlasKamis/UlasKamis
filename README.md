@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chick Hicks
+- 👋 Hi, I’m @chickhicks
 - 👀 I’m interested in cars
 - 🌱 I’m currently learning validation
 - 💞️ I’m looking to collaborate on karaoke
