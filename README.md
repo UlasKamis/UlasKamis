@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @UlasKamis
-- 👀 I’m interested in Luis Binne
-- 🌱 I’m currently learning Luis Binne
-- 💞️ I’m looking to collaborate on Luis Binne
-- 📫 How to reach me: via Luis Binne
+- 👋 Hi, I’m @Chick Hicks
+- 👀 I’m interested in cars
+- 🌱 I’m currently learning validation
+- 💞️ I’m looking to collaborate on karaoke
 
 <!---
 UlasKamis/UlasKamis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
